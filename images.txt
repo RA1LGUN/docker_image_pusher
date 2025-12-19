@@ -1,1 +1,3 @@
 verlai/verl:vllm011.latest
+lmsysorg/sglang:latest-runtime
+lmsysorg/sglang:latest
