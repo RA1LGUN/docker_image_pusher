@@ -1,4 +1,1 @@
-verlai/verl:vllm011.latest
-lmsysorg/sglang:latest-runtime
-lmsysorg/sglang:latest
 vllm/vllm-openai:v0.13.0
