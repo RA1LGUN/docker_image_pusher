@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.13.0
+public.ecr.aws/q9t5s3a7/vllm-ci-postmerge-repo:8eaf51c2e8ed4e058f1fd5a1e85e96287ae54c8c
